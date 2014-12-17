@@ -1,6 +1,5 @@
 require "./lib/anagram.rb"
 require "./lib/connection.rb"
-require 'pry'
 require 'sinatra'
 require 'mustache'
 
